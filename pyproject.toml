@@ -1,0 +1,8 @@
+[project]
+name = "ibm-fraud-capstone"
+version = "0.1.0"
+description = "IBM AML capstone project: baselines and graph methods"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
