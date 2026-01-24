@@ -1,0 +1,6 @@
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  trans_file: "HI-Small_Trans.csv"
+  accounts_file: "HI-Small_accounts.csv"
+  patterns_file: "HI-Small_Patterns.txt"

@@ -1,8 +1,12 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "ibm-fraud-capstone"
 version = "0.1.0"
-description = "IBM AML capstone project: baselines and graph methods"
-requires-python = ">=3.10"
+description = "IBM AML capstone project"
+requires-python = ">=3.9"
 
 [tool.setuptools.packages.find]
 where = ["src"]
