@@ -1,15 +1,3 @@
-numpy
-pandas
-scikit-learn
-matplotlib
-jupyter
-tqdm
-pyyaml
-networkx
-xgboost
-lightgbm
-dvc[gdrive]
-
 # Graph Neural Networks for Anti-Money Laundering Detection
 
 ### *Authors: Dimas Molina, Luigi Cheng, Reza Moghadam, Timothy Chang*

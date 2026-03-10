@@ -16,3 +16,5 @@ __pycache__/
 # OS
 .DS_Storesrc/*.egg-info/
 .DS_Store
+
+*.egg-info
