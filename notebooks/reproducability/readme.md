@@ -87,8 +87,7 @@ For local use, replace the Google Drive paths with local paths.
 For example:
 
 ```python
-from pathlib import Path
-SAVE_DIR = Path.cwd()
+SAVE_DIR = Path"."
 ```
 
 ## Expected output
