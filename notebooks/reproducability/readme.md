@@ -87,7 +87,7 @@ For local use, replace the Google Drive paths with local paths.
 For example:
 
 ```python
-SAVE_DIR = Path"."
+SAVE_DIR = Path(".")
 ```
 
 ## Expected output
